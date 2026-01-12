@@ -21,7 +21,7 @@ Python est le langage de programmation que nous utiliserons tout au long de la s
 
 <img width="322" height="375" alt="Onglet_environnement" src="https://github.com/user-attachments/assets/9ccf4e28-31cf-4bd3-89ef-d74f28c28c91" />
 
-4. Créez un environnement `inf1007` en utilisant la version de python `3.11`
+3. Créez un environnement `inf1007` en utilisant la version de python `3.11`
    
 <img width="708" height="451" alt="create_environment" src="https://github.com/user-attachments/assets/29c5bad8-10b8-463e-a449-b61b17178d14" />
 
@@ -32,26 +32,26 @@ Python est le langage de programmation que nous utiliserons tout au long de la s
 Visual Studio Code est un environnement de développement intégré (IDE), c'est-à-dire un logiciel qui vous permettra d'écrire, organiser et exécuter votre code. Il en existe plusieurs autres, mais nous recommandons d'utiliser celui-ci pour le cours. 
 
 1. Commencez par installer [VS Code](https://code.visualstudio.com/).
-3. Ensuite, créez un dossier `INF1007` quelque part dans vos documents sur votre ordinateur.
-5. Ouvrez VS Code puis ouvrez votre dossier `INF1007` dans VS Code
+2. Ensuite, créez un dossier `INF1007` quelque part dans vos documents sur votre ordinateur.
+3. Ouvrez VS Code puis ouvrez votre dossier `INF1007` dans VS Code
    
 <img width="326" height="329" alt="Open_folder" src="https://github.com/user-attachments/assets/70e76bc8-b9ca-4ce4-a3ea-5578a74fd678" />
 
-7. Téléchargez l'extension Python de VS Code à partir du menu "extensions" :
-8. 
+4. Téléchargez l'extension Python de VS Code à partir du menu "extensions" :
+
 <img width="231" height="305" alt="Image" src="https://github.com/user-attachments/assets/dc83e4ee-eafc-4335-a0c6-868d421a208a" />
 
-9. Créez un fichier `test.py` depuis VS Code et ouvrez-le.
+5. Créez un fichier `test.py` depuis VS Code et ouvrez-le.
    
 <img width="472" height="330" alt="create_test_py" src="https://github.com/user-attachments/assets/00daae44-e006-4bb1-8a54-39e0e456e5f0" />
 
-10. Copiez le code suivant dans votre fichier `test.py`
+6. Copiez le code suivant dans votre fichier `test.py`
 
 ```python
 print('Hello world !')
 ```
 
-6. Activez votre environnement python `inf1007` créé précedemment:
+7. Activez votre environnement python `inf1007` créé précedemment:
     1. Appuyez simultanément sur:
         - windows: `ctrl + shift + p` 
         - mac: `command + shift + p`
@@ -62,7 +62,7 @@ print('Hello world !')
 
     > Note: Il est aussi possible de choisir votre environnement en cliquant en bas à droite de votre écran (à coté de la cloche) quand vous avez ouvert un fichier python.
 
-7. Exécutez le script `test.py` en cliquant en haut à droite sur la flèche.
+8. Exécutez le script `test.py` en cliquant en haut à droite sur la flèche.
 
 <img width="371" height="393" alt="FLECHE" src="https://github.com/user-attachments/assets/51a9b931-500e-4aad-9af1-93fde1d1a78d" />
 
