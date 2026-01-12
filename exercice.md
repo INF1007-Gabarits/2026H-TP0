@@ -156,9 +156,6 @@ Autrement dit, tant que vous ne faites pas de `git push`, vos changements sont e
 ```
 git push
 ```
-> [!Important]
-> Pour le TP0, vous n'avez pas les permissions nécessaires pour utiliser la commande `git push`. En effet, cela modifierait le répertoire GitHub commun à toute la classe, ce que nous voulons éviter.
-> À partir du TP3, TP4 et du Projet 2, vous aurez votre propre répertoire individuel via GitHub Classroom. Vous pourrez alors utiliser `git push` pour envoyer vos commits sur votre propre répertoire GitHub.
 
 Pour votre information, lorsqu'on fait git push, le commit devient visible sur GitHub, comme dans l'exemple ci-dessous :
 
