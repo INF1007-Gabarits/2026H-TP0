@@ -38,9 +38,10 @@ Visual Studio Code est un environnement de développement intégré (IDE), c'est
 <img width="326" height="329" alt="Open_folder" src="https://github.com/user-attachments/assets/70e76bc8-b9ca-4ce4-a3ea-5578a74fd678" />
 
 7. Téléchargez l'extension Python de VS Code à partir du menu "extensions" :
+8. 
 <img width="231" height="305" alt="Image" src="https://github.com/user-attachments/assets/dc83e4ee-eafc-4335-a0c6-868d421a208a" />
 
-8. Créez un fichier `test.py` depuis VS Code et ouvrez-le.
+9. Créez un fichier `test.py` depuis VS Code et ouvrez-le.
    
 <img width="472" height="330" alt="create_test_py" src="https://github.com/user-attachments/assets/00daae44-e006-4bb1-8a54-39e0e456e5f0" />
 
