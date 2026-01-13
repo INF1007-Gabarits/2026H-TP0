@@ -5,7 +5,7 @@
 
 Maintenant que vous avez installé tous les outils nécessaires sur votre ordinateur, vous pouvez commencer l'exercice du TP0 ! :tada:
 
-Rendez-vous au fichier intitulé `exercices.md` pour les instructions, attention à bien être sur votre repository et non sur l'original !
+Rendez-vous au fichier intitulé `exercices.md` pour les instructions.
 
 ## Ressources additionelles (optionnel)
 
